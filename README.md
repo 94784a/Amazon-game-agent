@@ -1,0 +1,1 @@
+click .exe tp run
